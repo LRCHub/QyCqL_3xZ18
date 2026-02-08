@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あせりかなしみ",
+  "base_artist": "SEDO Sounder",
+  "createdAt": "2026-02-08T09:03:33.264285Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あせりかなしみ (feat. MAYU)",
+      "artist": "SEDO Sounder",
+      "has_synced": false,
+      "path": "select/pl_01_あせりかなしみ_(feat._MAYU)_SEDO_Sounder.txt"
+    }
+  ]
+}
